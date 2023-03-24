@@ -1,0 +1,26 @@
+body
+{
+margin: 0;
+padding: 0;
+font-family: 'Ubuntu', sans-serif;
+
+}
+
+.port1{
+    background-color: #1CD6CE;
+    padding: 6px;
+    text-align: center;
+}
+
+.port2
+{
+    background-color: #293462;
+    padding: 6px;
+    text-align: center;
+    color: white;
+}
+
+.contact_section
+{
+    background-color: #1CD6CE;
+}
